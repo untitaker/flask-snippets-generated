@@ -1,0 +1,8 @@
+Some hideous kludge for importing all Flask snippets from
+http://flask.pocoo.org/snippets/ to the new repository at
+https://github.com/pocoo/flask-snippets
+
+  1.) Install html2rest from PyPI
+  2.) Run ./fetch.sh (you need wget for this)
+  3.) Run ./generate.py (Python 2)
+  4.) Take a look at ./output/
